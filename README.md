@@ -1,6 +1,6 @@
 Do you have vast amounts of data and need to convert it into actionable insights? Look no further—you have come to the right guy.
 
-👋 Hi! I'm Ayush Singh, an Data Analyst enthusiast with an engineering background  and a strong passion for analytics.
+👋 Hi! I'm Ayush Singh, a Data Analyst enthusiast with an engineering background  and a strong passion for analytics.
 
 🎓 After graduation, I discovered a profound interest in data analysis. The deeper I explored, the more captivated I became by the field of Analytics.
 
